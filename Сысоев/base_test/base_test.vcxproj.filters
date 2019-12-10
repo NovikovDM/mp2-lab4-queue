@@ -18,7 +18,10 @@
     <ClCompile Include="test_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="test_TQueue.cpp">
+    <ClCompile Include="test_Iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_TList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

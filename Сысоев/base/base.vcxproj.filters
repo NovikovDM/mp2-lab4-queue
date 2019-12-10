@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TClasster.cpp">
+    <ClCompile Include="TPolynom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sample_classter.cpp">
+    <ClCompile Include="sample_polynom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TQueue.h">
+    <ClInclude Include="TList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TClasster.h">
+    <ClInclude Include="Tpolynom.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

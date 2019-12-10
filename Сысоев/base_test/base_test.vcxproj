@@ -83,8 +83,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="test_Iterator.cpp" />
     <ClCompile Include="test_main.cpp" />
-    <ClCompile Include="test_TQueue.cpp" />
+    <ClCompile Include="test_TList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

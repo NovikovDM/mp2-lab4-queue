@@ -81,12 +81,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="TClasster.cpp" />
-    <ClCompile Include="sample_classter.cpp" />
+    <ClCompile Include="TPolynom.cpp" />
+    <ClCompile Include="sample_polynom.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TClasster.h" />
-    <ClInclude Include="TQueue.h" />
+    <ClInclude Include="Tpolynom.h" />
+    <ClInclude Include="TList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
